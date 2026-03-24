@@ -3,6 +3,8 @@
 
 A modern web application that uses **Google's Gemini AI** to generate beautiful, responsive UI components from natural language descriptions. Supports 18+ frameworks with live preview and code editing.
 
+### 🌐 [Live Demo](https://gen-ui-generator.vercel.app/) | Try it now! → https://gen-ui-generator.vercel.app/
+
 ---
 
 ## ✨ Features
@@ -42,7 +44,16 @@ A modern web application that uses **Google's Gemini AI** to generate beautiful,
 
 ## 🚀 Quick Start
 
-### Prerequisites
+### Try Live Demo
+Visit the deployed application: **[https://gen-ui-generator.vercel.app/](https://gen-ui-generator.vercel.app/)**
+
+Demo users available:
+- Email: `dimple@gmail.com` | Password: `1234`
+- Email: `test@gmail.com` | Password: `5678`
+
+### Run Locally
+
+#### Prerequisites
 - Node.js (v16+)
 - npm or yarn
 
@@ -148,7 +159,12 @@ npm run lint     # Run ESLint
 
 ## 🚀 Deployment
 
-### Vercel/Netlify
+### Live on Vercel
+This app is currently deployed and live at: **[https://gen-ui-generator.vercel.app/](https://gen-ui-generator.vercel.app/)**
+
+### Deploy Your Own
+
+#### Vercel/Netlify
 ```bash
 npm run build
 # Upload dist/ folder to your hosting platform
